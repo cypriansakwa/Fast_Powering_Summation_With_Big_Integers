@@ -1,5 +1,5 @@
 [package]
-name = "Fast_Powering_Addition_Big_Integers"
+name = "Fast_Powering_Summation_With_Big_Integers"
 version = "0.1.0"
 edition = "2021"
 
